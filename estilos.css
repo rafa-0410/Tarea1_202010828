@@ -1,0 +1,12 @@
+html,
+body{
+    background-color: burlywood;
+}
+
+.divicion {
+    padding-top: 50%;
+}
+
+.divicion2 {
+    max-width: 500px;
+}
